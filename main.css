@@ -34,7 +34,7 @@ canvas {
     overflow: hidden;
     height: 40%;
     opacity: 0.5;
-    background-image:url(http://ozcg0skpp.bkt.clouddn.com/global/images/me_title_img.jpg);
+    background-image:url(./res/me_title_img.jpg);
     background-size:cover;
     background-position:center center;
     background-repeat:no-repeat
