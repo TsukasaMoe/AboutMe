@@ -18,7 +18,7 @@ canvas {
 
 .container {
     width: 620px;
-    height: 700px;
+    height: 680px;
     position: absolute;
     top: calc(50% - 330px);
     left: calc(50% - 310px);
